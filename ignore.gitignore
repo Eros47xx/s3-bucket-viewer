@@ -1,0 +1,5 @@
+# Ignore files with credentials
+.env
+*.env
+config.ini
+credentials.json
